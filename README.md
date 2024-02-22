@@ -28,6 +28,6 @@ In Bog'Leesh, players control Bog'Leesh simultaneously, utilizing their unique a
 
 Enjoy your adventure in Bog'Leesh!
 
-![Bog'Leesh Screenshot](img/bogleesh_screenshot1.png)
-![Bog'Leesh Screenshot](img/bogleesh_screenshot2.png)
-![Bog'Leesh Screenshot](img/bogleesh_screenshot3.png)
+![Bog'Leesh Screenshot](img/9xHmA+.png)
+![Bog'Leesh Screenshot](img/0nKBbL.png)
+![Bog'Leesh Screenshot](img/mf6bkC.png)
